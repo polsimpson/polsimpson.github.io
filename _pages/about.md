@@ -13,7 +13,7 @@ Before starting the PhD, I worked at the [Institute for Fiscal Studies](https://
 
 ## Work in Progress 
 
-**How the rural poor cope with a climate catastrophe: Evidence from Pakistan’s 2022 floods **
+#### How the rural poor cope with a climate catastrophe: Evidence from Pakistan’s 2022 floods
 (with [Amen Jalal](https://amenjalal.com))
 _One year follow-up completed_
 _Supported by the IGC, STEG and Center for International Development at Harvard University_
