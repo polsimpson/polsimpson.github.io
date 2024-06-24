@@ -25,7 +25,7 @@ author:
   name             : "Pol Simpson"
   pronouns         : "they/them"  
   bio              : "Econ PhD Student"
-  location         : "London"
+  location         : # "London"
   employer         : "London School of Economics"
   uri              : # URL
   email            : "p.simpson1@lse.ac.uk" 
