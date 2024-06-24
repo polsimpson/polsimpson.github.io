@@ -26,7 +26,7 @@ _Supported by the IGC, STEG and Center for International Development at Harvard 
 Extreme weather events are increasingly common as a result of climate change. Yet little is known about how exceptional climate shocks affect the lives of those most vulnerable to them, or about the barriers they face to moving out of harm's way. In this project, we study the effects of the 2022 flooding in Pakistan, which has affected 33 million households and left one third of the country under water. We leverage pre- and post-flood panel data on a random sample of 5,000 low-income, rural households across 6 districts of Sindh, who vary in their local exposure to the 2022 floods. We study (i) how floods impact these households, (ii) what decisions they make to cope with the immediate consequences of this shock, and (iii) what forces shape their forward-looking adaptation decisions. We exploit plausibly random local variation in flood water inundation – i.e., precipitation interacted with topography – conditional on historical likelihood of inundation and district fixed effects. Our outcomes include flood damages (e.g. loss of income or assets, health impacts, and disruption of social networks and trade), coping strategies (e.g. drawdown of savings, sale of assets, new loans, increased labour supply, changes to educational or nuturitional investments) and adaptation (e.g. diversification of networks or assets, and migration).
 </details>
 
-### Ray of Hope: China and the Rise of Solar Energy
+### Ray of Hope? China and the Rise of Solar Energy
 
 (with Ignacio Bañares Sánchez, Robin Burgess, David Laszlow, John Van Reenen and Yifan Wang) 
 
