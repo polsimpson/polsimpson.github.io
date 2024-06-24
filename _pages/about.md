@@ -13,10 +13,26 @@ Before starting the PhD, I worked at the [Institute for Fiscal Studies](https://
 
 ## Work in Progress 
 
-#### How the rural poor cope with a climate catastrophe: Evidence from Pakistan’s 2022 floods
+### How the rural poor cope with a climate catastrophe: Evidence from Pakistan’s 2022 floods
+
 (with [Amen Jalal](https://amenjalal.com))
+
 _One year follow-up completed_
+
 _Supported by the IGC, STEG and Center for International Development at Harvard University_
 
+<details>
+  <summary>Abstract</summary>
+Extreme weather events are increasingly common as a result of climate change. Yet little is known about how exceptional climate shocks affect the lives of those most vulnerable to them, or about the barriers they face to moving out of harm's way. In this project, we study the effects of the 2022 flooding in Pakistan, which has affected 33 million households and left one third of the country under water. We leverage pre- and post-flood panel data on a random sample of 5,000 low-income, rural households across 6 districts of Sindh, who vary in their local exposure to the 2022 floods. We study (i) how floods impact these households, (ii) what decisions they make to cope with the immediate consequences of this shock, and (iii) what forces shape their forward-looking adaptation decisions. We exploit plausibly random local variation in flood water inundation – i.e., precipitation interacted with topography – conditional on historical likelihood of inundation and district fixed effects. Our outcomes include flood damages (e.g. loss of income or assets, health impacts, and disruption of social networks and trade), coping strategies (e.g. drawdown of savings, sale of assets, new loans, increased labour supply, changes to educational or nuturitional investments) and adaptation (e.g. diversification of networks or assets, and migration).
+</details>
+
+### Ray of Hope: China and the Rise of Solar Energy
+
+(with Ignacio Bañares Sánchez, Robin Burgess, David Laszlow, John Van Reenen and Yifan Wang) 
+
+<details>
+  <summary>Abstract</summary>
+The rapid decline in the global cost of solar panels from the early 2000s coincided with China's growing dominance in solar photovoltaics (PV) and its adoption of green industrial policies. We evaluate the effectiveness of local, city-level policies to encourage growth and innovation in the Chinese solar industry. Using new data on solar subsidy policies, patenting, production and trade and a synthetic-difference-in-differences approach, we show that production subsidies caused large increases in solar PV output, innovation and productivity. Cities combining production subsidies with R&D support had an even larger impact. We can reject negative spillovers to other cities, finding that business stealing effects are outweighted by knowledge spillovers. Although demand subsidies targeted at solar generation reduced pollution, they had little impact on local solar output and innovation, as additional demand was largely met by supply from other Chinese cities. We interpret these results through the lens of a quantified general equilibrium model with heterogeneous manufacturers, intra-national and international trade costs, and endogenous choices of R&D, entry/exit and trade. Our results suggest substantial benefits to China from its solar policy, even abstracting from the climate change externality. We draw implications for green industrial policies in other countries, suggesting such interventions can foster growth in clean energy. 
+</details>
 
 
