@@ -11,4 +11,12 @@ Hello! I am a 4th year PhD student in economics at the London School of Economic
 
 Before starting the PhD, I worked at the [Institute for Fiscal Studies](https://ifs.org.uk).
 
+##Work in Progress 
+
+### How the rural poor cope with a climate catastrophe: Evidence from Pakistan’s 2022 floods 
+(with [Amen Jalal](https://amenjalal.com))
+_One year follow-up completed_
+_Supported by the IGC, STEG and Center for International Development at Harvard University_
+
+
 
