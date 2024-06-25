@@ -24,9 +24,9 @@ author:
   avatar           : "Pol Simpson 22-23.jpg"
   name             : "Pol Simpson"
   pronouns         : "they/them"  
-  bio              : "Econ PhD Student"
+  bio              : #"Econ PhD Student"
   location         : # "London"
-  employer         : "London School of Economics"
+  employer         : #"London School of Economics"
   uri              : # URL
   email            : "p.simpson1@lse.ac.uk" 
 
