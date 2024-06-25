@@ -30,6 +30,17 @@ _Supported by the IGC, STEG and Center for International Development at Harvard 
 Extreme weather events are increasingly common as a result of climate change. Yet little is known about how exceptional climate shocks affect the lives of those most vulnerable to them, or about the barriers they face to moving out of harm's way. In this project, we study the effects of the 2022 flooding in Pakistan, which has affected 33 million households and left one third of the country under water. We leverage pre- and post-flood panel data on a random sample of 5,000 low-income, rural households across 6 districts of Sindh, who vary in their local exposure to the 2022 floods. We study (i) how floods impact these households, (ii) what decisions they make to cope with the immediate consequences of this shock, and (iii) what forces shape their forward-looking adaptation decisions. We exploit plausibly random local variation in flood water inundation – i.e., precipitation interacted with topography – conditional on historical likelihood of inundation and district fixed effects. Our outcomes include flood damages (e.g. loss of income or assets, health impacts, and disruption of social networks and trade), coping strategies (e.g. drawdown of savings, sale of assets, new loans, increased labour supply, changes to educational or nuturitional investments) and adaptation (e.g. diversification of networks or assets, and migration).
 </details>
 
+### Could public aid crowd in private investment in adaptation? 
+
+(with [Amen Jalal](https://amenjalal.com) and [Ashley Pople](https://www.ashleypople.com))
+
+_Supported by the IGC and Center for International Development at Harvard University_
+
+<details>
+  <summary>Abstract</summary>
+When natural disasters strike, many governments compensate for damages. Theory suggests this may create moral hazard, increasing the aggregate costs of disasters. Does this prediction apply in the presence of missing markets and non-homothetic preferences? In this project, we will develop a model of household adaptation and government aid with these features. We also use two experiments - a randomized public works program, and a survey experiment - to study the impact of (i) receiving aid (ii) expectation of future aid, on households’ private investment, adaptation, and beliefs.
+</details>
+
 ### Ray of Hope? China and the Rise of Solar Energy
 
 (with Ignacio Bañares Sánchez, Robin Burgess, David Laszlow, John Van Reenen and Yifan Wang) 
