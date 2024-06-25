@@ -11,7 +11,7 @@ Hello! I am a 4th year PhD student in economics at the London School of Economic
 
 The majority of my ongoing research focuses on climate adaptation and natural disaster response in low income countries. I also work on global energy transition and green industrial policy. 
 
-I am a co-organiser of [LSE Environment Week](https://www.lse-environment-week.com), LSE Environment Camp and the weekly Economics of Energy and Environment (EEE) hour at LSE. Ananya Kotia and I organising [LSE QueerConf](https://www.lsequeerconf.com) - a one day conference for Queer PhD students in Economics. 
+I am a co-organiser of [LSE Environment Week](https://www.lse-environment-week.com), LSE Environment Camp and the weekly Economics of Energy and Environment (EEE) hour at LSE. [Ananya Kotia](https://ananyakotia.com) and I organising [LSE QueerConf](https://www.lsequeerconf.com) - a one day conference for Queer PhD students in Economics. 
 
 Outside of economics, I am fundraising secretary for [Pecs Education](https://pecseducation.com). Trans liberation now!  
 
