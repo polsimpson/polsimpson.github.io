@@ -33,7 +33,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 (with [Amen Jalal](https://amenjalal.com), [Ashley Pople](https://www.ashleypople.com), Eddy Zou and Oriana Bandiera)
 
-_Implementation on-going. AEA RCT registration here. Supported by JPAL K-CAI.
+_Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by JPAL K-CAI._
 
 <details>
   <summary>Abstract</summary>
@@ -57,7 +57,7 @@ _Designing pilot. Supported by the Hub for Equal Representation (LSE)._
 
 (With Emiliano Rinaldi) 
 
-_Supported by the IGC. In collaboration with the [JPAL/City of Cape Town Water, Air and Energy Lab](https://www.povertyactionlab.org/page/water-air-and-energy-wae-lab-city-cape-town)_ 
+_Supported by the IGC. In collaboration with the [Water, Air and Energy (WAE) Lab](https://www.povertyactionlab.org/page/water-air-and-energy-wae-lab-city-cape-town)_ 
 
 ### Ray of Hope? China and the Rise of Solar Energy
 
