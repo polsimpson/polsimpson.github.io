@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 5th year PhD student in economics at the London School of Economics (LSE). I'm affiliated with the [Environment and Energy (EEE) Programme](https://sticerd.lse.ac.uk/_new/our-work/economics-of-environment-and-energy/) at STICERD and the [Centre for Economic Performance](https://cep.lse.ac.uk/_new/people/person.asp?id=11236#:~:text=Pol%20Simpson%20is%20a%20PhD,the%20Institute%20for%20Fiscal%20Studies.) (CEP). Before starting the PhD, I worked at the [Institute for Fiscal Studies](https://ifs.org.uk). I have a masters in economics from University College London, and a bachelors in economics and management from the University of Oxford. 
+Hello! I am a 6th year PhD student in economics at the London School of Economics (LSE). I'm affiliated with the [Environment and Energy (EEE) Programme](https://sticerd.lse.ac.uk/_new/our-work/economics-of-environment-and-energy/) at STICERD and the [Centre for Economic Performance](https://cep.lse.ac.uk/_new/people/person.asp?id=11236#:~:text=Pol%20Simpson%20is%20a%20PhD,the%20Institute%20for%20Fiscal%20Studies.) (CEP). Before starting the PhD, I worked at the [Institute for Fiscal Studies](https://ifs.org.uk). I have a masters in economics from University College London, and a bachelors in economics and management from the University of Oxford. 
 
 My research focuses on climate adaptation and natural disaster response in low income countries. I also work on global energy transition and green industrial policy. 
 
@@ -17,29 +17,47 @@ Outside of economics, I am fundraising secretary for [Pecs Education](https://pe
 
 ## Work in Progress 
 
-### How the rural poor cope with a climate catastrophe: Evidence from Pakistan’s 2022 floods
+### Coping with Catastrophe: Pakistan’s 2022 Floods
 
 (with [Amen Jalal](https://amenjalal.com))
 
-_One year follow-up completed_
-
-_Supported by the IGC, STEG and Center for International Development at Harvard University_
+_Two annual follow-up surveys completed. Supported by the IGC, STEG and Harvard University_
 
 <details>
   <summary>Abstract</summary>
-Extreme weather events are increasingly common as a result of climate change. Yet little is known about how exceptional climate shocks affect the lives of those most vulnerable to them, or about the barriers they face to moving out of harm's way. In this project, we study the effects of the 2022 flooding in Pakistan, which has affected 33 million households and left one third of the country under water. We leverage pre- and post-flood panel data on a random sample of 5,000 low-income, rural households across 6 districts of Sindh, who vary in their local exposure to the 2022 floods. We study (i) how floods impact these households, (ii) what decisions they make to cope with the immediate consequences of this shock, and (iii) what forces shape their forward-looking adaptation decisions. We exploit plausibly random local variation in flood water inundation – i.e., precipitation interacted with topography – conditional on historical likelihood of inundation and district fixed effects. Our outcomes include flood damages (e.g. loss of income or assets, health impacts, and disruption of social networks and trade), coping strategies (e.g. drawdown of savings, sale of assets, new loans, increased labour supply, changes to educational or nuturitional investments) and adaptation (e.g. diversification of networks or assets, and migration).
+Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women’s. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
+
 </details>
 
-### Could public aid crowd in private investment in adaptation? 
+### Heat Insurance at Work 
 
-(with [Amen Jalal](https://amenjalal.com) and [Ashley Pople](https://www.ashleypople.com))
+(with [Amen Jalal](https://amenjalal.com), [Ashley Pople](https://www.ashleypople.com), Eddy Zou and Oriana Bandiera)
 
-_Supported by the IGC and Center for International Development at Harvard University_
+_Implementation on-going. AEA RCT registration here. Supported by JPAL K-CAI.
 
 <details>
   <summary>Abstract</summary>
-When natural disasters strike, many governments compensate for damages. Theory suggests this may create moral hazard, increasing the aggregate costs of disasters. Does this prediction apply in the presence of missing markets and non-homothetic preferences? In this project, we will develop a model of household adaptation and government aid with these features. We also use two experiments - a randomized public works program, and a survey experiment - to study the impact of (i) receiving aid (ii) expectation of future aid, on households’ private investment, adaptation, and beliefs.
+Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor work or limited access to adaptive resources. In 2024, 37 cities in India surpassed 45°C (113°F), and around 40,000 heat stroke cases were reported. How can social protection systems evolve to address the growing losses caused by extreme heat? We evaluate an innovative intervention in India that offers automatic daily wage payments to low-income workers when temperatures exceed a predetermined threshold. Developed by the Self Employed Women’s Association (SEWA) – a union representing over 3 million informal workers – the scheme is the world’s first parametric heat insurance product targeting earnings loss. We use a randomized encouragement design, incentivizing SEWA officers to promote enrollment in 2,821 treatment villages, while 2,821 control villages receive no targeted outreach. Panel survey data – combined with high-frequency measurement during the hot season – will allow us to estimate impacts on labor supply, financial decisions, health, consumption, and adaptive behavior. We also assess willingness to pay relative to actuarially fair pricing, providing evidence on the potential for commercial insurance-based heat protection.
 </details>
+
+### Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery
+
+(With [Amen Jalal](https://amenjalal.com) and [Canishk Naik](https://canishknaik.github.io)) 
+
+_Designing pilot. Supported by the Hub for Equal Representation (LSE)._
+
+<details>
+  <summary>Abstract</summary>
+
+  Disaster recovery often focuses on rebuilding physical infrastructure, overlooking the mental health impact of traumatic events like floods. In Pakistan, where flooding in 2022 submerged a third of the country and lasted up to 8 months, women exposed to a more intense flood shock were 11 pp more likely to have severe psychological distress 2 years later. Ignoring mental health in reconstruction may prolong the socio-economic impact of disasters by limiting individuals’ ability to work, plan, and recover. This project explores complementarities between mental health support and the standard infrastructure-focused approach by randomizing a trauma-based mental health intervention and leveraging natural variation in access to a housing reconstruction program in a 2x2 design. Our findings aim to measure the non-economic losses and damages of climate catastrophes, and inform more holistic disaster recovery policies that address both physical and psychological needs.
+
+  </details>
+
+### Water Market Design for Climate Resilience
+
+(With Emiliano Rinaldi) 
+
+_Supported by the IGC. In collaboration with the [JPAL/City of Cape Town Water, Air and Energy Lab](https://www.povertyactionlab.org/page/water-air-and-energy-wae-lab-city-cape-town)_ 
 
 ### Ray of Hope? China and the Rise of Solar Energy
 
