@@ -17,7 +17,7 @@ Outside of economics, I am fundraising secretary for [Pecs Education](https://pe
 
 ## Work in Progress 
 
-### Coping with Catastrophe: Pakistan’s 2022 Floods
+### Immediate Relief, Delayed Recovery: Labour Market Impacts of Natural Disasters
 
 (with [Amen Jalal](https://amenjalal.com))
 
