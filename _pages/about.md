@@ -15,7 +15,7 @@ I am a co-organiser of [LSE Environment Week](https://www.lse-environment-week.c
 
 Outside of economics, I am fundraising secretary for [Pecs Education](https://pecseducation.com). Trans liberation now!  
 
-## Work in Progress 
+## Working Papers
 
 ### Immediate Relief, Delayed Recovery: Labour Market Impacts of Natural Disasters
 
@@ -28,6 +28,17 @@ _Two annual follow-up surveys completed. Supported by the IGC, STEG and Harvard 
 Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women’s. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
 
 </details>
+
+### Ray of Hope? China and the Rise of Solar Energy [Paper](https://ignaciobanares.com/solar.pdf)
+
+(with [Ignacio Bañares Sánchez](https://ignaciobanares.com), [Robin Burgess](https://www.robinburgess.com), David Laszlow, [John Van Reenen](https://www.johnvanreenen.com) and Yifan Wang) 
+
+<details>
+  <summary>Abstract</summary>
+The rapid decline in the global cost of solar panels from the early 2000s coincided with China's growing dominance in solar photovoltaics (PV) and its adoption of green industrial policies. We evaluate the effectiveness of local, city-level policies to encourage growth and innovation in the Chinese solar industry. Using new data on solar subsidy policies, patenting, production and trade and a synthetic-difference-in-differences approach, we show that production subsidies caused large increases in solar PV output, innovation and productivity. Cities combining production subsidies with R&D support had an even larger impact. We can reject negative spillovers to other cities, finding that business stealing effects are outweighted by knowledge spillovers. Although demand subsidies targeted at solar generation reduced pollution, they had little impact on local solar output and innovation, as additional demand was largely met by supply from other Chinese cities. We interpret these results through the lens of a quantified general equilibrium model with heterogeneous manufacturers, intra-national and international trade costs, and endogenous choices of R&D, entry/exit and trade. Our results suggest substantial benefits to China from its solar policy, even abstracting from the climate change externality. We draw implications for green industrial policies in other countries, suggesting such interventions can foster growth in clean energy. 
+</details>
+
+## Work in Progress 
 
 ### Heat Insurance at Work 
 
@@ -59,13 +70,5 @@ _Designing pilot. Supported by the Hub for Equal Representation (LSE)._
 
 _Supported by the IGC. In collaboration with the [Water, Air and Energy (WAE) Lab](https://www.povertyactionlab.org/page/water-air-and-energy-wae-lab-city-cape-town)_ 
 
-### Ray of Hope? China and the Rise of Solar Energy
-
-(with [Ignacio Bañares Sánchez](https://ignaciobanares.com), [Robin Burgess](https://www.robinburgess.com), David Laszlow, [John Van Reenen](https://www.johnvanreenen.com) and Yifan Wang) 
-
-<details>
-  <summary>Abstract</summary>
-The rapid decline in the global cost of solar panels from the early 2000s coincided with China's growing dominance in solar photovoltaics (PV) and its adoption of green industrial policies. We evaluate the effectiveness of local, city-level policies to encourage growth and innovation in the Chinese solar industry. Using new data on solar subsidy policies, patenting, production and trade and a synthetic-difference-in-differences approach, we show that production subsidies caused large increases in solar PV output, innovation and productivity. Cities combining production subsidies with R&D support had an even larger impact. We can reject negative spillovers to other cities, finding that business stealing effects are outweighted by knowledge spillovers. Although demand subsidies targeted at solar generation reduced pollution, they had little impact on local solar output and innovation, as additional demand was largely met by supply from other Chinese cities. We interpret these results through the lens of a quantified general equilibrium model with heterogeneous manufacturers, intra-national and international trade costs, and endogenous choices of R&D, entry/exit and trade. Our results suggest substantial benefits to China from its solar policy, even abstracting from the climate change externality. We draw implications for green industrial policies in other countries, suggesting such interventions can foster growth in clean energy. 
-</details>
 
 
