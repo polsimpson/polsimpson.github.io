@@ -17,7 +17,7 @@ Outside of economics, I am fundraising secretary for [Pecs Education](https://pe
 
 ## Working Papers
 
-### Immediate Relief, Delayed Recovery: Labour Market Impacts of Natural Disasters
+### [Immediate Relief, Delayed Recovery: Labour Market Impacts of Natural Disasters](https://amenjalal.com/docs/JS_2025.pdf?_t=1764853846333)
 
 (with [Amen Jalal](https://amenjalal.com))
 
@@ -29,10 +29,9 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 </details>
 
-### Ray of Hope? China and the Rise of Solar Energy 
+### [Ray of Hope? China and the Rise of Solar Energy](https://ignaciobanares.com/solar.pdf)
 
 (with [Ignacio Bañares Sánchez](https://ignaciobanares.com), [Robin Burgess](https://www.robinburgess.com), David Laszlow, [John Van Reenen](https://www.johnvanreenen.com) and Yifan Wang) 
-[(Paper)](https://ignaciobanares.com/solar.pdf)
 
 <details>
   <summary>Abstract</summary>
