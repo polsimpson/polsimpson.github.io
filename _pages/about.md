@@ -31,7 +31,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 ### Heat Insurance at Work 
 
-(with [Amen Jalal](https://amenjalal.com), [Ashley Pople](https://www.ashleypople.com), Eddy Zou and Oriana Bandiera)
+(with [Amen Jalal](https://amenjalal.com), [Ashley Pople](https://www.ashleypople.com), [Eddy Zou](https://sites.google.com/view/eddyzou/home) and [Oriana Bandiera](https://orianabandiera.github.io))
 
 _Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by JPAL K-CAI._
 
@@ -61,7 +61,7 @@ _Supported by the IGC. In collaboration with the [Water, Air and Energy (WAE) La
 
 ### Ray of Hope? China and the Rise of Solar Energy
 
-(with Ignacio Bañares Sánchez, Robin Burgess, David Laszlow, John Van Reenen and Yifan Wang) 
+(with [Ignacio Bañares Sánchez](https://ignaciobanares.com), [Robin Burgess](https://www.robinburgess.com), David Laszlow, [John Van Reenen](https://www.johnvanreenen.com) and Yifan Wang) 
 
 <details>
   <summary>Abstract</summary>
