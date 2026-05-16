@@ -16,16 +16,16 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet">
 
 <style>
   :root {
-    --bg: #CAC4A8;         /* warm khaki */
-    --ink: #322A1D;        /* softened dark brown-grey */
-    --muted: #5C5849;
-    --rule: #ACA68B;
-    --link: #3A608F;       /* dusty Baltic Blue — primary */
-    --link-hover: #4F502B; /* Olive Leaf — on hover */
+    --bg: #00272B;         /* Gun Metal */
+    --ink: #C8D0CC;        /* pale teal-grey body */
+    --muted: #7C8884;
+    --rule: #E0FF4F;       /* Chartreuse */
+    --link: #4F7177;       /* lighter teal */
+    --link-hover: #E0FF4F; /* Chartreuse */
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; background: var(--bg); }
@@ -42,7 +42,7 @@
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
-    text-decoration-color: rgba(58, 96, 143, 0.4);
+    text-decoration-color: rgba(79, 113, 119, 0.4);
     transition: color 0.12s ease, text-decoration-color 0.12s ease;
   }
   a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
@@ -67,7 +67,15 @@
     display: block;
     margin-bottom: 14px;
   }
-  .sidebar .name { font-size: 18px; font-weight: 600; margin: 0 0 2px; }
+  .sidebar .name {
+    font-family: "Fraunces", "Times New Roman", serif;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+    color: #E0FF4F;
+    margin: 0 0 14px;
+  }
   .sidebar .pronouns, .sidebar .role { font-size: 13px; color: var(--muted); margin: 0 0 6px; }
   .sidebar .trans-flag {
     display: inline-block;
@@ -86,6 +94,7 @@
   .content h2 {
     font-size: 15px;
     font-weight: 600;
+    color: #E0FF4F;
     margin: 36px 0 14px;
     padding-bottom: 6px;
     border-bottom: 1px solid var(--rule);
@@ -98,7 +107,7 @@
   }
   .content h3 a {
     text-decoration: none;
-    border-bottom: 1px solid rgba(58,96,143,0.5);
+    border-bottom: 1px solid rgba(79,113,119,0.5);
     padding-bottom: 1px;
   }
   .content h3 a:hover { border-bottom-color: var(--link-hover); }
@@ -197,12 +206,11 @@
 <div class="layout">
 
   <aside class="sidebar">
+    <p class="name">{{ site.author.name }}</p>
     {% if site.author.avatar %}
       <img class="avatar" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
     {% endif %}
-    <p class="name">{{ site.author.name }}</p>
     {% if site.author.pronouns %}<p class="pronouns">{{ site.author.pronouns }} <img class="trans-flag" src="{{ '/images/trans-flag.svg' | relative_url }}" alt="Trans pride flag"></p>{% endif %}
-    {% if site.description %}<p class="role">{{ site.description }}</p>{% endif %}
     <ul>
       {% if site.author.email %}
         <li><span class="icon">✉</span><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
