@@ -20,12 +20,12 @@
 
 <style>
   :root {
-    --bg: #D1D9E7;         /* pale blue with a touch more grey */
-    --ink: #1F1F1F;
-    --muted: #585c63;
-    --rule: #bfc6d2;
-    --link: #4F502B;       /* Olive Leaf */
-    --link-hover: #53688E; /* dusty blue, between #55678B and #506890 */
+    --bg: #CAC4A8;         /* warm khaki */
+    --ink: #322A1D;        /* softened dark brown-grey */
+    --muted: #5C5849;
+    --rule: #ACA68B;
+    --link: #3A608F;       /* dusty Baltic Blue — primary */
+    --link-hover: #4F502B; /* Olive Leaf — on hover */
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; background: var(--bg); }
@@ -42,7 +42,7 @@
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
-    text-decoration-color: rgba(79, 80, 43, 0.45);
+    text-decoration-color: rgba(58, 96, 143, 0.4);
     transition: color 0.12s ease, text-decoration-color 0.12s ease;
   }
   a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
@@ -98,7 +98,7 @@
   }
   .content h3 a {
     text-decoration: none;
-    border-bottom: 1px solid rgba(79,80,43,0.5);
+    border-bottom: 1px solid rgba(58,96,143,0.5);
     padding-bottom: 1px;
   }
   .content h3 a:hover { border-bottom-color: var(--link-hover); }
@@ -116,7 +116,7 @@
   .paper h3 { margin: 0 0 4px; }
   .badge {
     display: inline-block;
-    background: var(--link-hover);   /* Baltic Blue */
+    background: var(--link);         /* Baltic Blue (now the primary link) */
     color: #ffffff;
     font-size: 11px;
     font-weight: 500;
