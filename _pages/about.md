@@ -21,7 +21,7 @@ I study how policy can help households and firms cope with and recover from extr
   <div class="actions">
     <details>
       <summary>Abstract</summary>
-      <div class="content">The rapid decline in the global cost of solar panels from the early 2000s coincided with China's growing dominance in solar photovoltaics (PV) and its adoption of green industrial policies. We evaluate the effectiveness of local, city-level policies to encourage growth and innovation in the Chinese solar industry. Using new data on solar subsidy policies, patenting, production and trade and a synthetic-difference-in-differences approach, we show that production subsidies caused large increases in solar PV output, innovation and productivity. Cities combining production subsidies with R&amp;D support had an even larger impact. We can reject negative spillovers to other cities, finding that business stealing effects are outweighted by knowledge spillovers. Although demand subsidies targeted at solar generation reduced pollution, they had little impact on local solar output and innovation, as additional demand was largely met by supply from other Chinese cities. We interpret these results through the lens of a quantified general equilibrium model with heterogeneous manufacturers, intra-national and international trade costs, and endogenous choices of R&amp;D, entry/exit and trade. Our results suggest substantial benefits to China from its solar policy, even abstracting from the climate change externality. We draw implications for green industrial policies in other countries, suggesting such interventions can foster growth in clean energy.</div>
+      <div class="content">Do industrial policies that promote clean energy offer a "ray of hope", increasing a country's growth and welfare, whilst simultaneously reducing carbon emissions? We study the impact of Chinese solar subsidies whose implementation by city-regions went alongside massive expansion of the sector and a dramatic fall in global solar prices. We construct new city and firm panel data on solar policies, patenting and output. Using synthetic-difference-in-differences 2004-2020, we find production and innovation subsidies were more effective than demand-side (installation) subsidies in generating large and persistent increases in local innovation, net entry, production and exports. Demand policies did, however, reduce local pollution. To examine aggregate effects, we build and structurally estimate a quantitative spatial model with endogenous innovation and heterogeneous productivity across firms and cities, which accounts for business stealing and knowledge spillovers. Counterfactual analysis shows that: (i) local effects remain substantial at the macro level explaining 40%–50% of the aggregate changes in solar innovation, prices and revenues; (ii) social benefits to Chinese citizens exceed subsidy costs by 65% (and double this when environmental benefits are included); and (iii) although all subsidy types increase welfare, innovation subsidies are the most cost-effective.</div>
     </details>
     <a class="action-link" href="https://poid.lse.ac.uk/textonly/publications/downloads/poidwp143.pdf">[Paper]</a>
     <a class="action-link" href="https://www.nber.org/papers/w34893">[NBER WP]</a>
@@ -34,7 +34,7 @@ I study how policy can help households and firms cope with and recover from extr
 ## Work in Progress
 
 <div class="paper">
-  <h3>Disaster Incidence and the Design of Disaster Recovery</h3>
+  <h3>Disaster Incidence and the Design of Disaster Recovery <span class="badge">Job Market Paper</span></h3>
   <p class="coauthors">with <a href="https://amenjalal.com">Amen Jalal</a></p>
   <div class="actions">
     <details>
@@ -50,7 +50,7 @@ I study how policy can help households and firms cope with and recover from extr
 
 <div class="paper">
   <h3>Dynamic Costs of Resource Shocks: Evidence from Cape Town's Water Crisis</h3>
-  <p class="coauthors">with Emiliano Rinaldi</p>
+  <p class="coauthors">with <a href="https://www.lse.ac.uk/people/emiliano-rinaldi">Emiliano Rinaldi</a></p>
   <div class="actions">
     <details>
       <summary>Abstract</summary>
@@ -65,7 +65,7 @@ I study how policy can help households and firms cope with and recover from extr
 
 <div class="paper">
   <h3>Heat Insurance at Work</h3>
-  <p class="coauthors">with <a href="https://amenjalal.com">Amen Jalal</a>, <a href="https://www.ashleypople.com">Ashley Pople</a>, <a href="https://sites.google.com/view/eddyzou/home">Eddy Zou</a>, <a href="https://kartiksrivastava.com">Kartik Srivastava</a> and <a href="https://orianabandiera.github.io">Oriana Bandiera</a></p>
+  <p class="coauthors">with <a href="https://amenjalal.com">Amen Jalal</a>, <a href="https://www.ashleypople.com">Ashley Pople</a>, <a href="https://kartiksrivastava.com">Kartik Srivastava</a>, <a href="https://sites.google.com/view/eddyzou/home">Eddy Zou</a> and <a href="https://orianabandiera.github.io">Oriana Bandiera</a></p>
   <div class="actions">
     <details>
       <summary>Abstract</summary>
