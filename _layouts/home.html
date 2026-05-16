@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="{{ site.locale | default: 'en' }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon-180x180.png' | relative_url }}">
+
+<meta property="og:title" content="{{ site.title }}">
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:url" content="{{ site.url }}">
+<meta property="og:type" content="profile">
+<meta name="twitter:card" content="summary">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --bg: #DCE0E6;
+    --ink: #1F1F1F;
+    --muted: #585c63;
+    --rule: #c0c6cf;
+    --link: #4F502B;       /* Olive Leaf */
+    --link-hover: #55678B; /* Baltic Blue */
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); }
+  body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  a {
+    color: var(--link);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    text-decoration-color: rgba(79, 80, 43, 0.45);
+    transition: color 0.12s ease, text-decoration-color 0.12s ease;
+  }
+  a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
+
+  .layout {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 56px 28px 120px;
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 56px;
+  }
+  @media (max-width: 768px) {
+    .layout { grid-template-columns: 1fr; gap: 28px; padding: 36px 22px 80px; }
+  }
+
+  /* ---------- sidebar ---------- */
+  .sidebar img.avatar {
+    width: 200px; height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: block;
+    margin-bottom: 14px;
+  }
+  .sidebar .name { font-size: 18px; font-weight: 600; margin: 0 0 2px; }
+  .sidebar .pronouns, .sidebar .role { font-size: 13px; color: var(--muted); margin: 0 0 6px; }
+  .sidebar .role { margin-bottom: 16px; }
+  .sidebar ul { list-style: none; padding: 0; margin: 0; font-size: 13px; }
+  .sidebar li { margin-bottom: 6px; }
+  .sidebar .icon { display: inline-block; width: 14px; color: var(--muted); margin-right: 6px; }
+
+  /* ---------- main content ---------- */
+  .content > p { margin: 0 0 14px; }
+  .content h2 {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 36px 0 14px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .content h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 0 4px;
+    line-height: 1.35;
+  }
+  .content h3 a {
+    text-decoration: none;
+    border-bottom: 1px solid rgba(79,80,43,0.5);
+    padding-bottom: 1px;
+  }
+  .content h3 a:hover { border-bottom-color: var(--link-hover); }
+
+  .coauthors { font-size: 13px; color: var(--ink); margin: 2px 0 4px; }
+  .status { font-size: 12.5px; color: var(--muted); font-style: italic; margin: 2px 0 8px; }
+
+  /* paper entries with click-to-expand abstract */
+  details.paper { margin: 22px 0 26px; }
+  details.paper > summary {
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+    display: block;
+  }
+  details.paper > summary::-webkit-details-marker { display: none; }
+  details.paper > summary > h3 {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin: 0 0 4px;
+  }
+  details.paper > summary > h3::before {
+    content: "›";
+    color: var(--muted);
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 400;
+    transition: transform 0.15s ease;
+    flex-shrink: 0;
+  }
+  details.paper[open] > summary > h3::before {
+    transform: rotate(90deg);
+    color: var(--link);
+  }
+  details.paper > summary > .coauthors,
+  details.paper > summary > .status {
+    margin-left: 22px;
+  }
+  details.paper > .abstract {
+    margin: 10px 0 4px 22px;
+    font-size: 13.5px;
+    line-height: 1.65;
+    color: #2a2a2a;
+  }
+</style>
+</head>
+<body>
+
+<div class="layout">
+
+  <aside class="sidebar">
+    {% if site.author.avatar %}
+      <img class="avatar" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+    {% endif %}
+    <p class="name">{{ site.author.name }}</p>
+    {% if site.author.pronouns %}<p class="pronouns">{{ site.author.pronouns }}</p>{% endif %}
+    {% if site.description %}<p class="role">{{ site.description }}</p>{% endif %}
+    <ul>
+      {% if site.author.email %}
+        <li><span class="icon">✉</span><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+      {% endif %}
+      {% if site.author.twitter %}
+        {% assign handle = site.author.twitter | remove: '@' %}
+        <li><span class="icon">𝕏</span><a href="https://twitter.com/{{ handle }}">@{{ handle }}</a></li>
+      {% endif %}
+      {% if site.author.googlescholar %}
+        <li><span class="icon">⌕</span><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+      {% endif %}
+    </ul>
+  </aside>
+
+  <main class="content">
+    {{ content }}
+  </main>
+
+</div>
+
+</body>
+</html>
