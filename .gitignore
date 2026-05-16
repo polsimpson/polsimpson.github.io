@@ -10,3 +10,10 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ruby/Bundler artifacts (in case bundle install is run later)
+.bundle/
+vendor/
+
+# Local dev-only HTML mockups
+mockup-*.html
