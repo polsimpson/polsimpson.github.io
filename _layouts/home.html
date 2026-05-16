@@ -69,6 +69,13 @@
   }
   .sidebar .name { font-size: 18px; font-weight: 600; margin: 0 0 2px; }
   .sidebar .pronouns, .sidebar .role { font-size: 13px; color: var(--muted); margin: 0 0 6px; }
+  .sidebar .trans-flag {
+    display: inline-block;
+    height: 11px;
+    width: auto;
+    vertical-align: -1px;
+    margin-left: 5px;
+  }
   .sidebar .role { margin-bottom: 16px; }
   .sidebar ul { list-style: none; padding: 0; margin: 0; font-size: 13px; }
   .sidebar li { margin-bottom: 6px; }
@@ -194,7 +201,7 @@
       <img class="avatar" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
     {% endif %}
     <p class="name">{{ site.author.name }}</p>
-    {% if site.author.pronouns %}<p class="pronouns">{{ site.author.pronouns }}</p>{% endif %}
+    {% if site.author.pronouns %}<p class="pronouns">{{ site.author.pronouns }} <img class="trans-flag" src="{{ '/images/trans-flag.svg' | relative_url }}" alt="Trans pride flag"></p>{% endif %}
     {% if site.description %}<p class="role">{{ site.description }}</p>{% endif %}
     <ul>
       {% if site.author.email %}
