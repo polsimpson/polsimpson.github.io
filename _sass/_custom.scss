@@ -1,0 +1,95 @@
+/* ==========================================================================
+   Custom overrides — applied on top of the Minimal Mistakes / AcademicPages
+   theme. Keep all bespoke rules here so the upstream theme files stay clean.
+   ========================================================================== */
+
+/* Section headers inside the main content (e.g. "Working Papers",
+   "Work in Progress") — smaller, sit close to the body text */
+.page__content {
+  h2 {
+    font-size: 1.07em;        /* ~15px against 14px body */
+    font-weight: 600;
+    margin: 2.2em 0 0.9em;
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid #c0c6cf;
+  }
+
+  h3 {
+    font-size: 1.07em;        /* same size as h2; visual distinction via context */
+    font-weight: 600;
+    margin: 0 0 0.25em;
+    line-height: 1.35;
+  }
+}
+
+/* Paper entries — <details class="paper"> wraps the title row in <summary>,
+   with the abstract appearing as <div class="abstract"> when expanded */
+.page__content {
+  details.paper {
+    margin: 1.4em 0 1.7em;
+
+    /* hide native disclosure marker */
+    & > summary {
+      cursor: pointer;
+      list-style: none;
+      user-select: none;
+      display: block;
+
+      &::-webkit-details-marker { display: none; }
+
+      /* title row with leading arrow */
+      h3 {
+        display: flex;
+        align-items: baseline;
+        gap: 0.5em;
+        margin: 0 0 0.25em;
+
+        &::before {
+          content: "›";
+          color: #585c63;
+          font-size: 1.25em;
+          line-height: 1;
+          font-weight: 400;
+          transition: transform 0.15s ease;
+          flex-shrink: 0;
+        }
+      }
+
+      /* coauthors / status sit under the title, aligned past the arrow */
+      .coauthors,
+      .status {
+        margin: 0.15em 0 0.25em 1.55em;
+        font-size: 0.95em;
+      }
+
+      .status {
+        font-style: italic;
+        color: #585c63;
+      }
+    }
+
+    /* rotate the arrow when open */
+    &[open] > summary h3::before {
+      transform: rotate(90deg);
+      color: #4F502B;          /* Olive Leaf — matches link color */
+    }
+
+    /* the revealed abstract */
+    & > .abstract {
+      margin: 0.6em 0 0.25em 1.55em;
+      font-size: 0.96em;
+      line-height: 1.65;
+    }
+  }
+
+  /* coauthors / status used outside a <details class="paper"> (e.g. Water Market) */
+  > .coauthors,
+  > .status {
+    font-size: 0.95em;
+    margin: 0.15em 0 0.25em 0;
+  }
+  > .status {
+    font-style: italic;
+    color: #585c63;
+  }
+}
