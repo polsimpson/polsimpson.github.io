@@ -17,3 +17,5 @@ vendor/
 
 # Local dev-only HTML mockups
 mockup-*.html
+# Personal palette notes (local only)
+PALETTES.md
