@@ -42,6 +42,10 @@ I study how policy can help households and firms cope with and recover from extr
       <div class="content">Natural disasters affect not only the locations they physically hit, but also surrounding areas through trade linkages. As a result, the economic incidence of disasters differs from their physical footprint. We argue that ignoring this divergence leads us to understate the costs of natural disasters and misallocate the assistance that follows. To do so, we collect panel data on 5,100 rural households, surveyed in the aftermath of Pakistan's large-scale 2022 floods. We combine this with satellite flood measures and administrative damage data, and use a re-centered IV design to separately identify the impacts of direct and indirect flood exposure. We find that direct exposure to flooding causes physical damage to homes and crops, whilst flooding in the surrounding area drives impacts on other economic outcomes. A one-standard-deviation increase in indirect exposure to flooding reduces the probability of being in paid employment by 9 percentage points, increases local food prices by 8% and lowers real consumption by 12%. This is not reflected in disaster relief: all else equal, direct exposure makes a household more likely to receive aid, while having flooded neighbours makes it less likely. To assess the benefits of optimal targeting, we build a spatial general-equilibrium model, and find substantial welfare gains compared to targeting on physical exposure, particularly when floods are large.</div>
     </details>
     <details>
+      <summary>Presentations</summary>
+      <div class="content">NBER Summer Institute 2026 (Environment and Energy Economics) · LSE Environment Camp 2026 · LSE Environment Week 2026 (scheduled)</div>
+    </details>
+    <details>
       <summary>Partners</summary>
       <div class="content">IGC · STEG · Harvard University</div>
     </details>
@@ -55,6 +59,10 @@ I study how policy can help households and firms cope with and recover from extr
     <details>
       <summary>Abstract</summary>
       <div class="content">Droughts are becoming more frequent, and cities facing them must decide how to divide a temporary cut in water between residential and commercial use. We study this choice in Cape Town's Day Zero crisis, where the city raised prices sharply to attenuate demand. Using the universe of formal employment, we find losses in water-intensive industries that lasted long after prices returned to normal, with the reduction in water use by firms coming from exit rather than substitution. Neither employment in water-intensive sectors nor the formal employment rates of workers displaced from them had returned to trend six years later. These impacts spilled over onto sectors that bought from, sold to, or shared workers with water-intensive industries. To measure the welfare cost of the implemented policy against alternatives, we build a dynamic spatial model of the city, with firm entry and exit and costly job switching. We find that a policy that shifted the cut toward households, protecting a free basic allowance while raising prices on use above it, would have avoided nearly two thirds of the welfare losses from the drought.</div>
+    </details>
+    <details>
+      <summary>Presentations</summary>
+      <div class="content">NBER Summer Institute 2026 (Urban Economics) · LSE Environment Camp 2026 · LSE Environment Week 2026 (scheduled)</div>
     </details>
     <details>
       <summary>Partners</summary>
