@@ -62,7 +62,7 @@ I study how policy can help households and firms cope with and recover from extr
     </details>
     <details>
       <summary>Presentations</summary>
-      <div class="content">NBER Summer Institute 2026 (Urban Economics) · LSE Environment Camp 2026 · LSE Environment Week 2026 (scheduled)</div>
+      <div class="content">NBER Summer Institute 2026 (Urban Economics)* · LSE Environment Camp 2026* · LSE Environment Week 2026 (scheduled)*<span class="note">* presented by coauthor</span></div>
     </details>
     <details>
       <summary>Partners</summary>
