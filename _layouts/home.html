@@ -253,6 +253,27 @@
       a.rel = 'noopener noreferrer';
     }
   });
+
+  // Report expansions of the paper dropdowns (Abstract, Presentations, …) to
+  // Analytics. `toggle` fires on both open and close, so filter to opens only.
+  document.querySelectorAll('.paper details').forEach(function(d) {
+    d.addEventListener('toggle', function() {
+      if (!d.open || typeof gtag !== 'function') return;
+      var summary = d.querySelector('summary');
+      var heading = d.closest('.paper').querySelector('h3');
+      var title = 'unknown';
+      if (heading) {
+        // Clone so the badge ("Job Market Paper") can be dropped from the title
+        var clone = heading.cloneNode(true);
+        clone.querySelectorAll('.badge').forEach(function(b) { b.remove(); });
+        title = clone.textContent.trim();
+      }
+      gtag('event', 'expand_details', {
+        section: summary ? summary.textContent.trim() : 'unknown',
+        paper: title
+      });
+    });
+  });
 </script>
 </body>
 </html>
