@@ -36,7 +36,7 @@ I am on the 2026-27 academic job market.
 ## Work in Progress
 
 <div class="paper">
-  <h3>Direct Damage, Indirect Costs: The Incidence of Natural Disasters <span class="badge">Job Market Paper</span></h3>
+  <h3>The Economic Incidence of Natural Disasters <span class="badge">Job Market Paper</span></h3>
   <p class="coauthors">with <a href="https://amenjalal.com">Amen Jalal</a></p>
   <div class="actions">
     <details>
