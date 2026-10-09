@@ -12,6 +12,8 @@ I am a PhD candidate in Economics at the London School of Economics, working on 
 
 I study how policy can help households and firms cope with and recover from extreme weather events.
 
+I am on the 2026-27 academic job market.
+
 ## Working Papers
 
 <div class="paper">
