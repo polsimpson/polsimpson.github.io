@@ -81,7 +81,6 @@ I am on the 2026-27 academic job market.
       <summary>Abstract</summary>
       <div class="content">Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor or factory-based work, and have limited access to adaptive resources. How can social protection evolve to address the growing losses caused by extreme heat? We conduct a randomized controlled trial among low-income workers in Delhi, India, comparing the effects of temperature-indexed heat alerts, anticipatory daily wage payments delivered before heat events, and same-day daily wage payments delivered during heatwaves. We measure impacts on labour supply, adaptive behaviours, health, and financial wellbeing. The design separately identifies the value of information, the value of cash, and the value of acting ahead of heatwaves.</div>
     </details>
-    <a class="action-link" href="https://amenjalal.com/docs/JPSZB_2025.pdf">[Slides]</a>
     <a class="action-link" href="https://www.socialscienceregistry.org/trials/15728">[AEA Registration]</a>
     <details>
       <summary>Partners</summary>
