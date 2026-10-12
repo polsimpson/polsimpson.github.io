@@ -232,6 +232,7 @@
         {% assign handle = site.author.twitter | remove: '@' %}
         <li><span class="icon">𝕏</span><a href="https://twitter.com/{{ handle }}">@{{ handle }}</a></li>
       {% endif %}
+      <li><span class="icon">▤</span><a href="{{ '/files/simpson_cv.pdf' | relative_url }}">CV</a></li>
       {% if site.author.googlescholar %}
         <li><span class="icon">⌕</span><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
       {% endif %}
