@@ -45,7 +45,7 @@ I am on the 2026-27 academic job market.
     </details>
     <details>
       <summary>Presentations</summary>
-      <div class="content">NBER Summer Institute 2026 (Environment and Energy Economics) · LSE Environment Camp 2026 · LSE Environment Week 2026 (scheduled)</div>
+      <div class="content">NBER Summer Institute 2026 (Environment and Energy Economics) · LSE Environment Camp 2026 · LSE Environment Week 2026</div>
     </details>
     <details>
       <summary>Partners</summary>
@@ -64,7 +64,7 @@ I am on the 2026-27 academic job market.
     </details>
     <details>
       <summary>Presentations</summary>
-      <div class="content">NBER Summer Institute 2026 (Urban Economics)* · LSE Environment Camp 2026* · LSE Environment Week 2026 (scheduled)*<span class="note">* presented by coauthor</span></div>
+      <div class="content">NBER Summer Institute 2026 (Urban Economics)* · LSE Environment Camp 2026* · LSE Environment Week 2026*<span class="note">* presented by coauthor</span></div>
     </details>
     <details>
       <summary>Partners</summary>
