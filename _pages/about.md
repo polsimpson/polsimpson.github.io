@@ -17,6 +17,25 @@ I am on the 2026-27 academic job market.
 ## Working Papers
 
 <div class="paper">
+  <h3><a href="/files/JalalSimpson_floods.pdf">The Economic Incidence of Natural Disasters</a> <span class="badge">Job Market Paper</span></h3>
+  <p class="coauthors">with <a href="https://amenjalal.com">Amen Jalal</a></p>
+  <div class="actions">
+    <details>
+      <summary>Abstract</summary>
+      <div class="content">Policymakers and researchers often view the costs of natural disasters as local to the areas they physically strike. We show that due to spatial linkages across markets, the economic incidence of a disaster extends well beyond its physical footprint. We study Pakistan’s large-scale 2022 floods, combining original panel surveys of 5,100 rural households with satellite flood maps and a recentred instrument based on a hydrological model. We find that moving a household from the 10th to the 90th percentile of flooding within 15km of its home lowers its real expenditure by 10%, of which nearly two-thirds is due to flooding more than 5km away from home. The same change in flooding reduces the share of men in wage employment by 9 percentage points (pp), raises food prices by 8% and asset sales by 3 pp, and lowers credit access by 5 pp. These effects are driven almost entirely by flooding more than 5km away. We quantify the economic incidence of flooding in general equilibrium by building a spatial model of trade and commuting. Although two in five locations experienced almost no flooding, the model implies that welfare fell everywhere, and that 73% of the average loss was caused by flooding elsewhere. Moreover, targeting aid on predicted losses rather than physical exposure achieves the same welfare at 18% lower cost. Thus, ignoring the divergence between economic incidence and physical exposure leads us to underestimate disaster costs and misallocate aid, particularly for larger disasters and more integrated economies.</div>
+    </details>
+    <details>
+      <summary>Presentations</summary>
+      <div class="content">NBER Summer Institute 2026 (Environment and Energy Economics) · LSE Environment Camp 2026 · LSE Environment Week 2026</div>
+    </details>
+    <details>
+      <summary>Partners</summary>
+      <div class="content">IGC · STEG · Harvard University</div>
+    </details>
+  </div>
+</div>
+
+<div class="paper">
   <h3>Ray of Hope? China and the Rise of Solar Energy</h3>
   <p class="coauthors">with <a href="https://ignaciobanares.com">Ignacio Bañares Sánchez</a>, <a href="https://www.robinburgess.com">Robin Burgess</a>, Dávid László, <a href="https://www.johnvanreenen.com">John Van Reenen</a> and <a href="https://www.yifanwang.net">Yifan Wang</a></p>
   <p class="status">Revise and Resubmit, <strong>The Quarterly Journal of Economics</strong></p>
@@ -34,25 +53,6 @@ I am on the 2026-27 academic job market.
 </div>
 
 ## Work in Progress
-
-<div class="paper">
-  <h3>The Economic Incidence of Natural Disasters <span class="badge">Job Market Paper</span></h3>
-  <p class="coauthors">with <a href="https://amenjalal.com">Amen Jalal</a></p>
-  <div class="actions">
-    <details>
-      <summary>Abstract</summary>
-      <div class="content">Natural disasters affect not only the locations they physically hit, but also surrounding areas through trade linkages. As a result, the economic incidence of disasters differs from their physical footprint. We argue that ignoring this divergence leads us to understate the costs of natural disasters and misallocate the assistance that follows. To do so, we collect panel data on 5,100 rural households, surveyed in the aftermath of Pakistan's large-scale 2022 floods. We combine this with satellite flood measures and administrative damage data, and use a re-centered IV design to separately identify the impacts of direct and indirect flood exposure. We find that direct exposure to flooding causes physical damage to homes and crops, whilst flooding in the surrounding area drives impacts on other economic outcomes. A one-standard-deviation increase in indirect exposure to flooding reduces the probability of being in paid employment by 9 percentage points, increases local food prices by 8% and lowers real consumption by 12%. This is not reflected in disaster relief: all else equal, direct exposure makes a household more likely to receive aid, while having flooded neighbours makes it less likely. To assess the benefits of optimal targeting, we build a spatial general-equilibrium model, and find substantial welfare gains compared to targeting on physical exposure, particularly when floods are large.</div>
-    </details>
-    <details>
-      <summary>Presentations</summary>
-      <div class="content">NBER Summer Institute 2026 (Environment and Energy Economics) · LSE Environment Camp 2026 · LSE Environment Week 2026</div>
-    </details>
-    <details>
-      <summary>Partners</summary>
-      <div class="content">IGC · STEG · Harvard University</div>
-    </details>
-  </div>
-</div>
 
 <div class="paper">
   <h3>Dynamic Costs of Resource Shocks: Evidence from Cape Town's Water Crisis</h3>
