@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at the London School of Economics, working on environmental economics.
 
-I study how policy can help households and firms cope with and recover from extreme weather events.
+My work studies how policy can help households and firms cope with and recover from extreme weather events.
 
 I am on the 2026-27 academic job market.
 
