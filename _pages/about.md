@@ -36,7 +36,7 @@ I am on the 2026-27 academic job market.
 </div>
 
 <div class="paper">
-  <h3>Ray of Hope? China and the Rise of Solar Energy</h3>
+  <h3><a href="https://poid.lse.ac.uk/textonly/publications/downloads/poidwp143.pdf">Ray of Hope? China and the Rise of Solar Energy</a></h3>
   <p class="coauthors">with <a href="https://ignaciobanares.com">Ignacio Bañares Sánchez</a>, <a href="https://www.robinburgess.com">Robin Burgess</a>, Dávid László, <a href="https://www.johnvanreenen.com">John Van Reenen</a> and <a href="https://www.yifanwang.net">Yifan Wang</a></p>
   <p class="status">Revise and Resubmit, <strong>The Quarterly Journal of Economics</strong></p>
   <div class="actions">
@@ -44,7 +44,6 @@ I am on the 2026-27 academic job market.
       <summary>Abstract</summary>
       <div class="content">Do industrial policies that promote clean energy offer a "ray of hope", increasing a country's growth and welfare, whilst simultaneously reducing carbon emissions? We study the impact of Chinese solar subsidies whose implementation by city-regions went alongside massive expansion of the sector and a dramatic fall in global solar prices. We construct new city and firm panel data on solar policies, patenting and output. Using synthetic-difference-in-differences 2004-2020, we find production and innovation subsidies were more effective than demand-side (installation) subsidies in generating large and persistent increases in local innovation, net entry, production and exports. Demand policies did, however, reduce local pollution. To examine aggregate effects, we build and structurally estimate a quantitative spatial model with endogenous innovation and heterogeneous productivity across firms and cities, which accounts for business stealing and knowledge spillovers. Counterfactual analysis shows that: (i) local effects remain substantial at the macro level explaining 40%–50% of the aggregate changes in solar innovation, prices and revenues; (ii) social benefits to Chinese citizens exceed subsidy costs by 65% (and double this when environmental benefits are included); and (iii) although all subsidy types increase welfare, innovation subsidies are the most cost-effective.</div>
     </details>
-    <a class="action-link" href="https://poid.lse.ac.uk/textonly/publications/downloads/poidwp143.pdf">[Paper]</a>
     <a class="action-link" href="https://www.nber.org/papers/w34893">[NBER WP]</a>
     <a class="action-link" href="https://voxdev.org/topic/energy-environment/ray-hope-rise-solar-energy-china">[VoxDev]</a>
     <a class="action-link" href="https://cepr.org/voxeu/columns/ray-hope-rise-solar-energy-china">[VoxEU]</a>
