@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at the London School of Economics, working on environmental economics.
 
-My work studies how policy can help households and firms cope with and recover from extreme weather events.
+My work studies how policy can help households and firms manage environmental risk.
 
 I am on the 2026-27 academic job market.
 
@@ -29,7 +29,7 @@ I am on the 2026-27 academic job market.
       <div class="content">NBER Summer Institute 2026 (Environment and Energy Economics) · LSE Environment Camp 2026 · LSE Environment Week 2026</div>
     </details>
     <details>
-      <summary>Partners</summary>
+      <summary>Funders and partners</summary>
       <div class="content">IGC · STEG · Harvard University</div>
     </details>
   </div>
@@ -44,29 +44,29 @@ I am on the 2026-27 academic job market.
       <summary>Abstract</summary>
       <div class="content">Do industrial policies that promote clean energy offer a "ray of hope", increasing a country's growth and welfare, whilst simultaneously reducing carbon emissions? We study the impact of Chinese solar subsidies whose implementation by city-regions went alongside massive expansion of the sector and a dramatic fall in global solar prices. We construct new city and firm panel data on solar policies, patenting and output. Using synthetic-difference-in-differences 2004-2020, we find production and innovation subsidies were more effective than demand-side (installation) subsidies in generating large and persistent increases in local innovation, net entry, production and exports. Demand policies did, however, reduce local pollution. To examine aggregate effects, we build and structurally estimate a quantitative spatial model with endogenous innovation and heterogeneous productivity across firms and cities, which accounts for business stealing and knowledge spillovers. Counterfactual analysis shows that: (i) local effects remain substantial at the macro level explaining 40%–50% of the aggregate changes in solar innovation, prices and revenues; (ii) social benefits to Chinese citizens exceed subsidy costs by 65% (and double this when environmental benefits are included); and (iii) although all subsidy types increase welfare, innovation subsidies are the most cost-effective.</div>
     </details>
-    <a class="action-link" href="https://www.nber.org/papers/w34893">[NBER WP]</a>
-    <a class="action-link" href="https://voxdev.org/topic/energy-environment/ray-hope-rise-solar-energy-china">[VoxDev]</a>
-    <a class="action-link" href="https://cepr.org/voxeu/columns/ray-hope-rise-solar-energy-china">[VoxEU]</a>
-    <a class="action-link" href="https://www.voxchina.org/show-3-450.html">[VoxChina]</a>
+    <a class="action-link" href="https://www.nber.org/papers/w34893">NBER WP</a>
+    <a class="action-link" href="https://voxdev.org/topic/energy-environment/ray-hope-rise-solar-energy-china">VoxDev</a>
+    <a class="action-link" href="https://cepr.org/voxeu/columns/ray-hope-rise-solar-energy-china">VoxEU</a>
+    <a class="action-link" href="https://www.voxchina.org/show-3-450.html">VoxChina</a>
   </div>
 </div>
 
 ## Work in Progress
 
 <div class="paper">
-  <h3>Dynamic Costs of Resource Shocks: Evidence from Cape Town's Water Crisis</h3>
+  <h3>Rebalancing Water? Evidence from Day Zero in Cape Town</h3>
   <p class="coauthors">with <a href="https://emilianorinaldi.com">Emiliano Rinaldi</a></p>
   <div class="actions">
     <details>
       <summary>Abstract</summary>
-      <div class="content">Droughts are becoming more frequent, and cities facing them must decide how to divide a temporary cut in water between residential and commercial use. We study this choice in Cape Town's Day Zero crisis, where the city raised prices sharply to attenuate demand. Using the universe of formal employment, we find losses in water-intensive industries that lasted long after prices returned to normal, with the reduction in water use by firms coming from exit rather than substitution. Neither employment in water-intensive sectors nor the formal employment rates of workers displaced from them had returned to trend six years later. These impacts spilled over onto sectors that bought from, sold to, or shared workers with water-intensive industries. To measure the welfare cost of the implemented policy against alternatives, we build a dynamic spatial model of the city, with firm entry and exit and costly job switching. We find that a policy that shifted the cut toward households, protecting a free basic allowance while raising prices on use above it, would have avoided nearly two thirds of the welfare losses from the drought.</div>
+      <div class="content">During a drought, a city must allocate a large reduction in water between households and the firms that employ them. A single scarcity price across all users allocates water efficiently if each user's willingness to pay matches the social marginal value of their water consumption. This may fail if either households or firms face distortions in their ability to adjust. We study Cape Town's 2016-2018 drought, when water prices rose sharply for households and firms. Using detailed water meter and tax data, we find important differences in adjustment margins. Household conservation was privately costly but created no externality as consumption remained above basic health and sanitation levels. The evidence shows that firm water demand was inelastic, and they faced labour and credit market distortions in their adjustment, leading to inefficient exit and unemployment. To identify inefficient exit and recover the social marginal value of water for each user we build and estimate a dynamic model of the city. We find that at the chosen allocation of the city, the social marginal value of water was 11 times higher in firms than households. If the city had used efficient corrective prices, placing a much larger share of water conservation on households, it could have reduced the drought's welfare cost by 52 percent.</div>
     </details>
     <details>
       <summary>Presentations</summary>
       <div class="content">NBER Summer Institute 2026 (Urban Economics)* · LSE Environment Camp 2026* · LSE Environment Week 2026*<span class="note">* presented by coauthor</span></div>
     </details>
     <details>
-      <summary>Partners</summary>
+      <summary>Funders and partners</summary>
       <div class="content">IGC · <a href="https://www.povertyactionlab.org/page/water-air-and-energy-wae-lab-city-cape-town">Water, Air and Energy (WAE) Lab</a></div>
     </details>
   </div>
@@ -80,9 +80,9 @@ I am on the 2026-27 academic job market.
       <summary>Abstract</summary>
       <div class="content">Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor or factory-based work, and have limited access to adaptive resources. How can social protection evolve to address the growing losses caused by extreme heat? We conduct a randomized controlled trial among low-income workers in Delhi, India, comparing the effects of temperature-indexed heat alerts, anticipatory daily wage payments delivered before heat events, and same-day daily wage payments delivered during heatwaves. We measure impacts on labour supply, adaptive behaviours, health, and financial wellbeing. The design separately identifies the value of information, the value of cash, and the value of acting ahead of heatwaves.</div>
     </details>
-    <a class="action-link" href="https://www.socialscienceregistry.org/trials/15728">[AEA Registration]</a>
+    <a class="action-link" href="https://www.socialscienceregistry.org/trials/15728">AEA Registration</a>
     <details>
-      <summary>Partners</summary>
+      <summary>Funders and partners</summary>
       <div class="content">JPAL K-CAI</div>
     </details>
   </div>
@@ -97,7 +97,7 @@ I am on the 2026-27 academic job market.
       <div class="content">Psychologists have long argued that human needs are met in order of priority: until basic needs such as shelter are secured, attention and effort remain focused on them, delaying higher-order pursuits. This idea has implications for a range of economic outcomes — shaping, for instance, how much background risk a household bears and, thus, how willing it is to make high-risk, high-reward investments in the future. Despite its influence, the idea that needs follow a hierarchy has rarely been tested using credible causal evidence on economic behaviour. We provide such a test using the reconstruction of flood-destroyed homes in Sindh, Pakistan. Exploiting staggered disbursements of home-reconstruction grants, we compare otherwise-similar households that received funding just before and just after a program expansion. Combining administrative records with a survey of 6,000 households, we estimate the effects of home security on risk-taking, migration, health, schooling, and productive investment.</div>
     </details>
     <details>
-      <summary>Partners</summary>
+      <summary>Funders and partners</summary>
       <div class="content">Hub for Equal Representation (LSE)</div>
     </details>
   </div>
