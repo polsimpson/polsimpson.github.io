@@ -51,10 +51,8 @@ I am on the 2026-27 academic job market.
   </div>
 </div>
 
-## Work in Progress
-
 <div class="paper">
-  <h3>Rebalancing Water? Evidence from Day Zero in Cape Town</h3>
+  <h3><a href="https://emilianorinaldi.com/files/Rinaldi_JMP.pdf">Rebalancing Water? Evidence from Day Zero in Cape Town</a></h3>
   <p class="coauthors">with <a href="https://emilianorinaldi.com">Emiliano Rinaldi</a></p>
   <div class="actions">
     <details>
@@ -71,6 +69,8 @@ I am on the 2026-27 academic job market.
     </details>
   </div>
 </div>
+
+## Work in Progress
 
 <div class="paper">
   <h3>Heat Insurance at Work</h3>
