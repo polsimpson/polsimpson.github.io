@@ -65,7 +65,7 @@ I am on the 2026-27 academic job market.
     </details>
     <details>
       <summary>Funders and partners</summary>
-      <div class="content">IGC · <a href="https://www.povertyactionlab.org/page/water-air-and-energy-wae-lab-city-cape-town">Water, Air and Energy (WAE) Lab</a></div>
+      <div class="content">IGC · STICERD · Weiss Fund · <a href="https://www.povertyactionlab.org/page/water-air-and-energy-wae-lab-city-cape-town">Water, Air and Energy (WAE) Lab</a></div>
     </details>
   </div>
 </div>
